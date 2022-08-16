@@ -10,7 +10,7 @@ It's metrics platform agnostic so you can use it with any metrics software you w
 meteor npm --save install measured-core
 meteor npm --save install measured-reporting
 
-meteor add kschingiz:meteor-measured
+meteor add skadmin:meteor-measured
 ```
 
 ## Requirements
@@ -37,7 +37,7 @@ const registry = new SelfReportingMetricsRegistry(
 ### Step 2:
 
 ```js
-import meteorMeasured from 'meteor/kschingiz:meteor-measured';
+import meteorMeasured from 'meteor/skadmin:meteor-measured';
 
 meteorMeasured(registry);
 ```

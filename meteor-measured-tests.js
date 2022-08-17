@@ -2,7 +2,7 @@
 import { Tinytest } from "meteor/tinytest";
 
 // Import and rename a variable exported by meteor-measured.js.
-import { name as packageName } from "meteor/kschingiz:meteor-measured";
+import { name as packageName } from "meteor/skadmin:meteor-measured";
 
 // Write your tests here!
 // Here is an example.

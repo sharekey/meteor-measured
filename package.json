@@ -1,12 +1,12 @@
 {
   "name": "meteor-measured",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Meteor metrics library",
   "main": "meteor-measured.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kengessov Shynggys @kschingiz",
+  "author": "Sharekey",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.9.0",
